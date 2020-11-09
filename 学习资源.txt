@@ -1,0 +1,5 @@
+
+视频课程：
+3Blue1Brown的线性代数的本质 
+Gilbert Strang的Introduction to Linear Algebra 
+哈工大严质彬的矩阵分析
