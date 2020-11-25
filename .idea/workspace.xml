@@ -30,6 +30,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604719031571</updated>
       <workItem from="1604719032799" duration="715000" />
+      <workItem from="1606136920703" duration="79000" />
     </task>
     <servers />
   </component>
@@ -41,5 +42,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604719036451" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606136994139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606136994139" />
   </component>
 </project>
