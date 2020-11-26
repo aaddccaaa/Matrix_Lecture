@@ -1,5 +1,7 @@
 # Matrix_Lecture
  ## 高等工程数学/Advanced Engineering Mathematics
+ ### 2020-11-26补充说明：
+Updated deadline for registration of the mini project: 11-30
  ### 2020-11-25补充说明：
  大作业的报告一组一份。如果两人一组的话，那两个人只需要提交一份报告。
  **提醒**，11-26是选题的截止日期，请各位学委把本班同学的分组情况和选题信息整理完发给助教组组长。
